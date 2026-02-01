@@ -69,18 +69,18 @@ SpaceOS-test.iso: info UxImage
 help: info
 	$(Q)printf "Uinxed-Kernel Makefile Usage:\n"
 	$(Q)printf "  make all         - Build the entire project.\n"
-	$(Q)printf "  make run         - Run the Uinxed-x64.iso in QEMU.\n"
+	$(Q)printf "  make run         - Run the SpaceOS-test.iso in QEMU.\n"
 	$(Q)printf "  make clean       - Clean all generated files.\n"
 	$(Q)printf "  make format      - Format all source files using clang-format.\n"
 	$(Q)printf "  make check       - Run static code checks using clang-tidy.\n"
 	$(Q)printf "  make gen.clangd  - Generate .clangd configuration file.\n"
 	$(Q)printf "  make help        - Display this help message.\n"
 
-run: info Uinxed-x64.iso
+run: info SpaceOS-test.iso
 	$(QEMU) $(QEMU_FLAGS) -cdrom $(word 2,$^)
 
 clean: info
-	$(Q)$(RM) $(OBJS) $(DEPS) UxImage Uinxed-x64.iso
+	$(Q)$(RM) $(OBJS) $(DEPS) UxImage SpaceOS-test.iso
 	$(Q)printf "Clean completed.\n"
 
 format: info $(C_SOURCES:%=%.fmt) $(C_HEADERS:%=%.fmt)
