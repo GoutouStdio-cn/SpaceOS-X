@@ -11,7 +11,7 @@
 </div>
 
 ## 项目简介
-SpaceOS-X 是 Uinxed-Kernel 的一个发行版，对 Uinxed-Kernel 新增并优化了一些功能，（此发行版适合**64位架构的低配置古董机**）。
+SpaceOS 是 Uinxed-Kernel 的一个发行版，对 Uinxed-Kernel 新增并优化了一些功能，（此发行版适合**64位架构的低配置古董机**）。
 
 目标：
  
@@ -48,3 +48,11 @@ A2: SpaceKernel 是 GoutouStdio 自研的微内核，设计目标是运行于独
 ## 关于开发者
 - 开发团队：[GoutouStdio](https://github.com/GoutouStdio-cn)
 - 内核开发团队：[ViudiraTech](https://github.com/ViudiraTech)
+
+## Stars
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" />
+    <img alt="SpaceOS-X Star History Chart" src="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" style="width: 70%; max-width: 400px;"/>
+  </picture>
+感谢你为我们点的Stars
