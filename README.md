@@ -50,9 +50,10 @@ A2: SpaceKernel 是 GoutouStdio 自研的微内核，设计目标是运行于独
 - 内核开发团队：[ViudiraTech](https://github.com/ViudiraTech)
 
 ## Stars
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" />
-    <img alt="SpaceOS-X Star History Chart" src="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" style="width: 70%; max-width: 400px;"/>
-  </picture>
-感谢你为我们点的Stars
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" />
+  <img alt="SpaceOS-X Star History Chart" src="https://api.star-history.com/svg?repos=GoutouStdio-cn/SpaceOS-X&type=Date&freq=monthly" style="width: 70%; max-width: 400px;"/>
+</picture>
+
+ - 感谢你为我们点的Stars
