@@ -11,7 +11,7 @@
 </div>
 
 ## 项目简介
-SpaceOS-X 是基于 Uinxed-Kernel 进行二次开发的操作系统，适合**64位架构的低配置古董机**。
+SpaceOS-X 是 Uinxed-Kernel 的一个发行版，对 Uinxed-Kernel 新增并优化了一些功能，（此发行版适合**64位架构的低配置古董机**）。
 
 目标：
  
